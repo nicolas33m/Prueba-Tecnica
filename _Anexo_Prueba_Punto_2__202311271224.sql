@@ -1,0 +1,115 @@
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'1-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'1-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,20000,0.0,0.0,20000.0,'1-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'1-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'1-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,40000,0.0,0.0,40000.0,'1-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'1-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'1-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'1-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'1-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'1-Noviembre'),
+	 ('Y','C','C2','Interrumpible',2500,8.0,2500,0.0,0.0,2500.0,'1-Noviembre'),
+	 ('X','C','C3','Interrumpible',1500,8.5,1500,0.0,0.0,1500.0,'1-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'2-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'2-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,18000,0.0,0.0,18000.0,'2-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'2-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'2-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,40000,0.0,0.0,40000.0,'2-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'2-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'2-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'2-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'2-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'2-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3000,8.0,3000,0.0,0.0,3000.0,'2-Noviembre'),
+	 ('X','C','C3','Interrumpible',2500,8.5,2500,0.0,0.0,2500.0,'2-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'3-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'3-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,18000,0.0,0.0,18000.0,'3-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'3-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'3-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,35000,0.0,0.0,35000.0,'3-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'3-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'3-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'3-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'3-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'3-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'3-Noviembre'),
+	 ('X','C','C3','Interrumpible',2000,8.5,2000,0.0,0.0,2000.0,'3-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'4-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'4-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,18000,0.0,0.0,18000.0,'4-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'4-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'4-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,35000,0.0,0.0,35000.0,'4-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'4-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'4-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'4-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'4-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'4-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'4-Noviembre'),
+	 ('X','C','C3','Interrumpible',2000,8.5,2000,0.0,0.0,2000.0,'4-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'5-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'5-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,20000,0.0,0.0,20000.0,'5-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'5-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'5-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,40000,0.0,0.0,40000.0,'5-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'5-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'5-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'5-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'5-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'5-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'5-Noviembre'),
+	 ('X','C','C3','Interrumpible',2000,8.5,2000,0.0,0.0,2000.0,'5-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'6-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'6-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,20000,0.0,0.0,20000.0,'6-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'6-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'6-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','A','A3','Firme',40000,5.5,40000,0.0,0.0,40000.0,'6-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'6-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'6-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'6-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'6-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'6-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'6-Noviembre'),
+	 ('X','C','C3','Interrumpible',2000,8.5,2000,0.0,0.0,2000.0,'6-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'7-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'7-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','C ','C1','Firme',20000,7.0,19500,0.0,0.0,19500.0,'7-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,2000.0,0.0,0.0,'7-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'7-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,38000,0.0,0.0,38000.0,'7-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,2000.0,0.0,0.0,'7-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'7-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'7-Noviembre'),
+	 ('Y','G','G1','Firme',700,5.3,700,2000.0,0.0,0.0,'7-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'7-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'7-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('X','C','C3','Interrumpible',2000,8.5,1850,0.0,0.0,1500.0,'7-Noviembre'),
+	 ('X','A','A1','Firme',2000,5.0,2000,2000.0,0.0,0.0,'8-Noviembre'),
+	 ('Y','B','B1','Firme',15000,6.0,15000,0.0,15000.0,0.0,'8-Noviembre'),
+	 ('Y','C ','C1','Firme',20000,7.0,19500,0.0,0.0,19500.0,'8-Noviembre'),
+	 ('Y','D','D1','Firme',5000,8.0,5000,5000.0,0.0,0.0,'8-Noviembre'),
+	 ('Y','A','A2','Firme',4500,4.0,4500,0.0,4500.0,0.0,'8-Noviembre'),
+	 ('Y','A','A3','Firme',40000,5.5,38000,0.0,0.0,38000.0,'8-Noviembre'),
+	 ('X','B','B2','Firme',10000,6.6,10000,10000.0,0.0,0.0,'8-Noviembre'),
+	 ('Y','E','E1','Firme',1000,7.2,1000,0.0,1000.0,0.0,'8-Noviembre'),
+	 ('X','F','F1','Firme',1500,6.0,1500,0.0,0.0,1500.0,'8-Noviembre');
+INSERT INTO public."Anexo Prueba Punto 2" ("Compañía","Cliente","Contrato","Tipo Contrato","CDGF(Mbtud)","Precio(Usd/Mbtu","Nominación(Mbtud)","Entrega Boca de pozo","Entrega SNT Capacidad Terceros","Entrega SNT Capacidad propia",fecha) VALUES
+	 ('Y','G','G1','Firme',700,5.3,700,700.0,0.0,0.0,'8-Noviembre'),
+	 ('X','B','B3','Interrumpible',3200,6.07,3200,0.0,1600.0,1600.0,'8-Noviembre'),
+	 ('Y','C','C2','Interrumpible',3100,8.0,3100,0.0,0.0,3100.0,'8-Noviembre'),
+	 ('X','C','C3','Interrumpible',1850,8.5,1850,0.0,0.0,1850.0,'8-Noviembre');

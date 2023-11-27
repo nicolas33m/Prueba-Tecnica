@@ -1,0 +1,19 @@
+-- public."Anexo Prueba Punto 2" definition
+
+-- Drop table
+
+-- DROP TABLE public."Anexo Prueba Punto 2";
+
+CREATE TABLE public."Anexo Prueba Punto 2" (
+	"Compañía" varchar NULL,
+	"Cliente" varchar NULL,
+	"Contrato" varchar NULL,
+	"Tipo Contrato" text NULL,
+	"CDGF(Mbtud)" numeric NULL,
+	"Precio(Usd/Mbtu" numeric NULL,
+	"Nominación(Mbtud)" numeric NULL,
+	"Entrega Boca de pozo" numeric NULL,
+	"Entrega SNT Capacidad Terceros" numeric NULL,
+	"Entrega SNT Capacidad propia" numeric NULL,
+	fecha varchar NULL
+);

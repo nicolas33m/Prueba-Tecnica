@@ -1,0 +1,12 @@
+-- public."Hidrologia" definition
+
+-- Drop table
+
+-- DROP TABLE public."Hidrologia";
+
+CREATE TABLE public."Hidrologia" (
+	"Id" text NULL,
+	"Name" text NULL,
+	"Date" date NULL,
+	"Value" numeric NULL
+);

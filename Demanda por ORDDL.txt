@@ -1,0 +1,35 @@
+-- public."Demanda por OR" definition
+
+-- Drop table
+
+-- DROP TABLE public."Demanda por OR";
+
+CREATE TABLE public."Demanda por OR" (
+	"Fecha" date NULL,
+	id text NULL,
+	code varchar NULL,
+	hora1 numeric NULL,
+	hora2 numeric NULL,
+	hora3 numeric NULL,
+	hora4 numeric NULL,
+	hora5 numeric NULL,
+	hora6 numeric NULL,
+	hora7 numeric NULL,
+	hora8 numeric NULL,
+	hora9 numeric NULL,
+	hora10 numeric NULL,
+	hora11 numeric NULL,
+	hora12 numeric NULL,
+	hora13 numeric NULL,
+	hora14 numeric NULL,
+	hora15 numeric NULL,
+	hora16 numeric NULL,
+	hora17 numeric NULL,
+	hora18 numeric NULL,
+	hora19 numeric NULL,
+	hora20 numeric NULL,
+	hora21 numeric NULL,
+	hora22 numeric NULL,
+	hora23 numeric NULL,
+	hora24 numeric NULL
+);

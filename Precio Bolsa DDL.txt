@@ -1,0 +1,34 @@
+-- public."Precio Bolsa" definition
+
+-- Drop table
+
+-- DROP TABLE public."Precio Bolsa";
+
+CREATE TABLE public."Precio Bolsa" (
+	"Fecha" date NULL,
+	"Hora1" numeric NULL,
+	"Hora2" numeric NULL,
+	"Hora3" numeric NULL,
+	"Hora4" numeric NULL,
+	"Hora5" numeric NULL,
+	"Hora6" numeric NULL,
+	"Hora7" numeric NULL,
+	"Hora8" numeric NULL,
+	"Hora9" numeric NULL,
+	"Hora10" numeric NULL,
+	"Hora11" numeric NULL,
+	"Hora12" numeric NULL,
+	"Hora13" numeric NULL,
+	"Hora14" numeric NULL,
+	"Hora15" numeric NULL,
+	"Hora16" numeric NULL,
+	"Hora17" numeric NULL,
+	"Hora18" numeric NULL,
+	"Hora19" numeric NULL,
+	"Hora20" numeric NULL,
+	"Hora21" numeric NULL,
+	"Hora22" numeric NULL,
+	"Hora23" numeric NULL,
+	"Hora24" numeric NULL,
+	id text NULL
+);
